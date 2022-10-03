@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "semantic-ui-css": "^2.4.1",
     "vue": "^3.2.37"
   },
   "devDependencies": {
